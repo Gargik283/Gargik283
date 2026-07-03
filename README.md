@@ -1,54 +1,139 @@
-# 👋 Hi, I'm Gargi Kundu! 
+<h1 align="center">Hi 👋, I'm Gargi Kundu</h1>
+
+<h3 align="center">
+Aspiring Data Analyst | SQL • Power BI • Python • PostgreSQL
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-Python%20%7C%20SQL-blue?style=for-the-badge" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Visualization-Power%20BI%20%7C%20Tableau-F2C811?style=for-the-badge" alt="Visualization">
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%20Engineering-green?style=for-the-badge" alt="Focus">
+Turning raw data into actionable business insights through analytics, dashboards, and data engineering.
 </p>
 
 ---
 
-## 🚀 About Me
-I am an Electronics and Communication Engineering graduate specializing in **Data Analytics, AI Engineering, and Data Engineering**. I am passionate about engineering clean data pipelines, designing optimized relational data warehouses, and building high-impact business intelligence dashboards that drive executive-level decision-making. 
+# 👩‍💻 About Me
 
-* 📍 **Location:** Kolkata, West Bengal (Open to relocation across major tech hubs including Bangalore, Hyderabad, Pune, and Gurgaon)
-* 🧠 **Core Philosophy:** Data isn't just rows and columns; it's a story waiting to be structured efficiently through robust architecture.
+🎓 B.Tech Graduate (Electronics & Communication Engineering)
 
----
+📊 Passionate about Data Analytics, Business Intelligence, SQL, Python, and Data Warehousing.
 
-## 🛠️ Technical Toolbox
+💡 I enjoy transforming raw datasets into meaningful insights through interactive dashboards, database systems, and analytical solutions.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, Advanced Excel (Pivot Tables, Advanced Formulas) |
-| **Databases & Warehousing** | MySQL, PostgreSQL, Star Schema Modeling, ETL Pipelines |
-| **Data Visualization** | Power BI (Advanced DAX, Power Query), Tableau |
-| **Frameworks & Core Skills** | Data Architecture, Business Intelligence, IoT Innovation, Public Speaking |
+🌱 Currently improving my skills in:
 
----
-
-## 📈 Featured Portfolio Projects
-
-### 📊 Business Intelligence & Visualization
-* 🛒 **[E-Commerce End-to-End Power BI Analytics](https://github.com/Gargik283/Ecommerce-PowerBI-Analytics)** – A fully deployed e-commerce intelligence solution featuring custom Time Intelligence DAX measures and an optimized Star Schema data model.
-* 📈 **[AI & ML Job Market Analysis](https://github.com/Gargik283/AI-ML-Job-Market-Analysis)** – Deep-dive analytics on global artificial intelligence and machine learning employment trends, hiring trajectories, and salary distributions.
-
-### 🗄️ Data Architecture & Backend
-* 💎 **[SQL Data Warehouse Project](https://github.com/Gargik283/SQL-Data-Warehouse-Project)** – Implementation of robust database structures, dimensional modeling (Star Schema), ETL processes, and analytical querying using relational SQL.
-
-### 🍏 Advanced Spreadsheet Analytics
-* 👥 **[HR Attrition Excel Project](https://github.com/Gargik283/HR-Attrition-Excel-Project)** – Dynamic corporate workforce analysis utilizing advanced Excel data cleaning, pivot tables, and conditional KPI tracking to uncover employee turnover drivers.
-* 🗂️ **[Dashboard Project in EXCEL](https://github.com/Gargik283/Dashboard-Project-in-EXCEL)** – Interactive operations and performance dashboard built entirely natively in Excel using advanced formula tracking and data formatting layouts.
+- Advanced SQL
+- Power BI
+- Python
+- Data Warehousing
+- Data Visualization
 
 ---
 
-## 📬 Connect with Me
+# 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gargi-kundu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gargikundu211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 E-Commerce End-to-End Analytics (Power BI)
+
+Interactive business intelligence solution featuring:
+
+- Star Schema
+- DAX Measures
+- Power Query
+- KPI Dashboard
+- Executive Reporting
+
+---
+
+## 🏦 Bank Management System
+
+A secure banking application built using Python, PostgreSQL, and Streamlit.
+
+Highlights:
+
+- Secure Authentication
+- Transaction Processing
+- Analytics Dashboard
+- Audit Logs
+- Interactive Web Application
+
+---
+
+## 💎 SQL Data Warehouse
+
+Modern Data Warehouse implementation using:
+
+- Medallion Architecture
+- ETL Pipelines
+- SQL Analytics
+- Star Schema
+- Business Reporting
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gargik283&show_icons=true&theme=github_dark" width="48%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gargik283&theme=github-dark" width="48%">
+
 </p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+gargikundu211@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/gargi-kundu
+
+🐙 GitHub
+
+https://github.com/Gargik283
+
+---
+
+⭐ Thanks for visiting my profile!

@@ -61,7 +61,9 @@ Machine Learning application that predicts personality type using a trained clas
 
 **Tech:** Python, Pandas, Scikit-learn, Logistic Regression, Streamlit
 
-🔗 [GitHub Repository](YOUR_PERSONALITY_GITHUB_REPOSITORY_LINK)
+🔗 [Live Demo](https://personality-type-prediction-ji4gss.streamlit.app/)
+
+🔗 [GitHub Repository](https://github.com/Gargik283/personality-type-prediction/tree/main)
 
 ---
 
@@ -84,11 +86,11 @@ I'm looking for an **entry-level opportunity in Data Analytics, Business Analyti
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** https://www.linkedin.com/in/gargi-kundu
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** gargikundu211@gmail.com
 
-💻 **GitHub:** YOUR_GITHUB_PROFILE_URL
+💻 **GitHub:** https://www.github.com/Gargik283
 
 ---
 

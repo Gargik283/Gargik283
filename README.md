@@ -29,7 +29,7 @@ Content-based recommendation system using **NLP, TF-IDF and Cosine Similarity** 
 
 🔗 [Live Demo](https://movie-recommendation-nlp-2209.streamlit.app/)
 
-🔗 [GitHub Repository](YOUR_MOVIE_GITHUB_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Gargik283/movie-recommendation-nlp)
 
 ---
 
@@ -39,17 +39,18 @@ Machine Learning application that predicts exam scores based on student-related 
 
 🔗 [Live Demo](https://exam-score-prediction-fep4.streamlit.app/)
 
-🔗 [GitHub Repository](YOUR_EXAM_SCORE_GITHUB_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Gargik283/exam-score-prediction)
 
 ---
 
-### 🍔 Food Delivery Time Prediction
+### 🍔 Delivery Time Prediction
 
 Machine Learning project that predicts food delivery time using features such as distance, traffic, weather, preparation time, and courier experience.
 
 **Tech:** Python, Pandas, Scikit-learn, Random Forest, Streamlit
+🔗 [Live Demo](https://delivery-time-prediction-223h.streamlit.app/)
 
-🔗 [GitHub Repository](YOUR_FOOD_DELIVERY_GITHUB_REPOSITORY_LINK)
+🔗 [GitHub Repository](https://github.com/Gargik283/Delivery-time-prediction)
 
 ---
 

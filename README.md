@@ -1,138 +1,92 @@
-<h1 align="center">Hi 👋, I'm Gargi Kundu</h1>
+# Hi, I'm Gargi Kundu 👋
 
-<h3 align="center">
-Aspiring Data Analyst | SQL • Power BI • Python • PostgreSQL
-</h3>
+### 🎯 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
-<p align="center">
-Turning raw data into actionable business insights through analytics, dashboards, and data engineering.
-</p>
+I'm a 2025 B.Tech graduate in Electronics & Communication Engineering (VLSI Design), passionate about **Data Analytics, Machine Learning, and building practical data-driven applications**.
+
+I'm currently focused on strengthening my skills in **Python, SQL, Excel, Power BI, NLP, Machine Learning, and Data Visualization** through hands-on projects.
 
 ---
 
-# 👩‍💻 About Me
+## 🛠️ Technical Skills
 
-🎓 B.Tech Graduate (Electronics & Communication Engineering)
+**Languages:** Python, SQL
 
-📊 Passionate about Data Analytics, Business Intelligence, SQL, Python, and Data Warehousing.
+**Data & Analytics:** Pandas, NumPy, Excel, Power BI
 
-💡 I enjoy transforming raw datasets into meaningful insights through interactive dashboards, database systems, and analytical solutions.
+**Machine Learning:** Scikit-learn, NLP, TF-IDF, Cosine Similarity
 
-🌱 Currently improving my skills in:
+**Development:** Streamlit, Git, GitHub
+
+**Core Concepts:** Data Analysis, Machine Learning, DBMS, DSA
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Movie Recommendation System
+Content-based recommendation system using **NLP, TF-IDF and Cosine Similarity** with fuzzy movie-title matching.
+
+🔗 [Live Demo](https://movie-recommendation-nlp-2209.streamlit.app/)
+
+🔗 [GitHub Repository](YOUR_MOVIE_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 📊 Exam Score Prediction
+
+Machine Learning application that predicts exam scores based on student-related input features using a trained **XGBoost model** and Streamlit.
+
+🔗 [Live Demo](https://exam-score-prediction-fep4.streamlit.app/)
+
+🔗 [GitHub Repository](YOUR_EXAM_SCORE_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 🍔 Food Delivery Time Prediction
+
+Machine Learning project that predicts food delivery time using features such as distance, traffic, weather, preparation time, and courier experience.
+
+**Tech:** Python, Pandas, Scikit-learn, Random Forest, Streamlit
+
+🔗 [GitHub Repository](YOUR_FOOD_DELIVERY_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 🧠 Personality Type Predictor
+
+Machine Learning application that predicts personality type using a trained classification model and an interactive Streamlit interface.
+
+**Tech:** Python, Pandas, Scikit-learn, Logistic Regression, Streamlit
+
+🔗 [GitHub Repository](YOUR_PERSONALITY_GITHUB_REPOSITORY_LINK)
+
+---
+
+## 📚 Currently Learning
 
 - Advanced SQL
+- Data Analytics & Visualization
+- Machine Learning
+- Natural Language Processing
 - Power BI
-- Python
-- Data Warehousing
-- Data Visualization
+- Statistics for Data Science
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Career Goal
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+I'm looking for an **entry-level opportunity in Data Analytics, Business Analytics, or Machine Learning** where I can apply my technical skills, learn from experienced teams, and contribute to real-world projects.
 
 ---
 
-### Databases
+## 📫 Connect With Me
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+📧 **Email:** YOUR_EMAIL
 
----
-
-### BI & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce End-to-End Analytics (Power BI)
-
-Interactive business intelligence solution featuring:
-
-- Star Schema
-- DAX Measures
-- Power Query
-- KPI Dashboard
-- Executive Reporting
-
----
-
-## 🏦 Bank Management System
-
-A secure banking application built using Python, PostgreSQL, and Streamlit.
-
-Highlights:
-
-- Secure Authentication
-- Transaction Processing
-- Analytics Dashboard
-- Audit Logs
-- Interactive Web Application
-
----
-
-## 💎 SQL Data Warehouse
-
-Modern Data Warehouse implementation using:
-
-- Medallion Architecture
-- ETL Pipelines
-- SQL Analytics
-- Star Schema
-- Business Reporting
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gargik283&show_icons=true&theme=github_dark" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gargik283&theme=github-dark" width="48%">
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 Email
-
-gargikundu211@gmail.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/gargi-kundu
-
-🐙 GitHub
-
-https://github.com/Gargik283
+💻 **GitHub:** YOUR_GITHUB_PROFILE_URL
 
 ---
 

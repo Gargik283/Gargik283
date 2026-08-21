@@ -48,6 +48,7 @@ Machine Learning application that predicts exam scores based on student-related 
 Machine Learning project that predicts food delivery time using features such as distance, traffic, weather, preparation time, and courier experience.
 
 **Tech:** Python, Pandas, Scikit-learn, Random Forest, Streamlit
+
 🔗 [Live Demo](https://delivery-time-prediction-223h.streamlit.app/)
 
 🔗 [GitHub Repository](https://github.com/Gargik283/Delivery-time-prediction)
